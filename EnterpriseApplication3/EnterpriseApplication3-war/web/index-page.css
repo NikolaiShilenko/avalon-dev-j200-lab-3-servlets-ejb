@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 5, 2021, 1:45:36 AM
+    Author     : Administrator
+*/
+body {
+    /*background-color: #a1b6cc;*/
+    background-image : url('img/tools.webp');
+}
+
+table {
+    background-color: whitesmoke;
+    width: 40%;
+}
+
+tr {
+    color: brown;
+    font-family: monospace;
+}
+
+output {
+    background-color: whitesmoke;
+    color: brown;
+    font-family: monospace;
+}
